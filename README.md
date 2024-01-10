@@ -23,21 +23,9 @@ This project is a Java-based Tic Tac Toe game that can be played in a console. I
 4. **End of Game**: The game ends when one player wins or there's a tie. Statistics are displayed at the end of each game.
 5. **Play Again**: After each game, choose whether to play another round.
 
-## Requirements
-
-- Java Development Kit (JDK)
-- Basic knowledge of running Java programs in a console
-
 ## Installation
 
 1. Clone or download this repository to your local machine.
 2. Compile the Java files (`TicTacToeBoard.java` and `TicTacToeMain.java`).
 3. Run `TicTacToeMain` to start playing.
 
-## Contributing
-
-Contributions to the game are welcome. Please feel free to fork the repository, make changes, and create a pull request.
-
----
-
-Enjoy playing Tic Tac Toe!
